@@ -1,11 +1,9 @@
 # reach
 Repo. for the reach project
 
-By;
-  Renx
-  Flux
-  
-  02-24-2018
+By: Renx, Flux
+
+02-24-2018
   
 
 ## To Do
